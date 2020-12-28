@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEDAD1</color>
+    <color name="colorPrimaryDark">#F69E7B</color>
+    <color name="colorAccent">#D4B5B0</color>
+
+    <color name="orangePrimary">#F69E7B</color>
+    <color name="bluePrimary">#383E56</color>
+    <color name="putih">#ffffff</color>
+    <color name="hitamPrimary">#21272C</color>
+    <color name="abuabu">#525252</color>
+    <color name="greenPrimary">#1abc9c</color>
+
+
+</resources>

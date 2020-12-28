@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MeyShop</string>
+    <string name="slogan">Belanja Jadi Lebih Asyik</string>
+    <string name="slogan2">Temukan\nPakaian\nTerbaikmu</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Alamat Email</string>
+    <string name="lanjutkan_label">LANJUTKAN</string>
+    <string name="nama_label">Nama</string>
+    <string name="jelajah_sekarang">Jelajah Sekarang</string>
+    <string name="kelamin_label">Kelamin</string>
+    <string name="main_menus_label">Main Menus</string>
+    <string name="shoptips_label">ShopTips</string>
+    <string name="forgot_password_label">Forgot password?</string>
+    <string name="btn_buy_clothes">Buy clothes</string>
+    <string name="btn_pay_now">Pay Now</string>
+    <string name="btn_my_dashboard">My Dashboard</string>
+    <string name="btn_view_clothes">View Clothes</string>
+    <string name="btn_sign_out_label">Sign Out</string>
+    <string name="btn_edit_profile_label">Edit Profile</string>
+    <string name="kode_order">Order Number</string>
+    <string name="time_label">Time</string>
+    <string name="note_label">Note</string>
+    <string name="btn_rating_now_label">Rating now</string>
+    <string name="edit_profile_label">Edit Profile</string>
+    <string name="btn_save_profile_label">Save Profile</string>
+    <string name="daftarSekarang_label">Daftar Sekarang</string>
+</resources>

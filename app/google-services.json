@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347110812910",
+    "firebase_url": "https://meyshop-b32c1.firebaseio.com",
+    "project_id": "meyshop-b32c1",
+    "storage_bucket": "meyshop-b32c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347110812910:android:53e6d1ce4ef6b3e43ad7ff",
+        "android_client_info": {
+          "package_name": "com.com.meyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347110812910-p7ifolddlbvosq5il3p2701h44kq92cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.com.meyshop",
+            "certificate_hash": "b77a35109a3290d2ad69c54e682246993a34b79b"
+          }
+        },
+        {
+          "client_id": "347110812910-gu5mm2juirsgp23k0lc6ias9hup57j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQSmPyy0L7BVfiraSeQRVaQGeBw8d2T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347110812910-gu5mm2juirsgp23k0lc6ias9hup57j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

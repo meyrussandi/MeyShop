@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    //button
+    <style name="btn_orangeprimary">btn_orangeprimary>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/bg_btn_masuk</item>
+        <item name="android:fontFamily">@font/kufammedium</item>
+        <item name="android:textColor">@color/putih</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="btn_greenprimary">btn_greenprimary>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/bg_btn_pay_now</item>
+        <item name="android:fontFamily">@font/kufammedium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/putih</item>
+    </style>
+    <style name="btn_whiteprimary">btn_whteprimary>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/bg_btn_daftar</item>
+        <item name="android:fontFamily">@font/kufammedium</item>
+        <item name="android:textColor">@color/abuabu</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    //TextView
+        <style name="tv_edittext">tv_edittext>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/abuabu</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/kufamregular</item>
+    </style>
+
+    //EditText
+    <style name="edittextprimary">editTextPrmay>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/hitamPrimary</item>
+        <item name="android:background">@drawable/bg_input_edit</item>
+        <item name="android:fontFamily">@font/kufamregular</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
